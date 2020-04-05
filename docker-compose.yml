@@ -1,0 +1,4 @@
+version: '3.7'
+services:
+  mcserver:
+    image: supi1290/minecraft-server-github:gina
